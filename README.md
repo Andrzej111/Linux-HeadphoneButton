@@ -19,8 +19,10 @@ SYNOPSIS
         //...
         }
     }
-    # run with
-    headphone_button
+
+Run with
+
+    ./headphone_button& disown
 
 DESCRIPTION
 ===========

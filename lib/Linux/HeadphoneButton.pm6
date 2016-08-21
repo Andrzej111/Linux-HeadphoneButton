@@ -110,8 +110,10 @@ Linux::HeadphoneButton - fires commands when headphone microphone button is pres
       //...
       }
   }
-  # run with
-  headphone_button
+
+Run with
+
+  ./headphone_button& disown
   
 =head1 DESCRIPTION
 

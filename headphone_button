@@ -1,0 +1,3 @@
+#!/bin/bash
+
+perl6 -Ilib/ bin/headphone_button.p6

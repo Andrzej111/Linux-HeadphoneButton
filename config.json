@@ -1,9 +1,9 @@
 { 
 "CLICK-INTERVAL" : "1",
 "ACTIONS" : {
-    "S" : "xcowsay short", 
-    "SS" : "xcowsay double short",
-    "L" : "xcowsay long"
+    "S" : "music_toggle", 
+    "SS" : "music_next",
+    "SSS" : "music_prev"
     }
 
 }
