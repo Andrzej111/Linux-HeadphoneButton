@@ -4,6 +4,9 @@ os:
 language: perl6
 perl6:
   - latest
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install acpid
 install:
   - rakudobrew build-panda
   - panda --notests installdeps .
