@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Andrzej111/Linux-HeadphoneButton.svg?branch=master)](https://travis-ci.org/Andrzej111/Linux-HeadphoneButton)
+
 NAME
 ====
 
@@ -17,8 +19,8 @@ SYNOPSIS
         //...
         }
     }
-
-    perl6 -Ilib/ bin/main.p6& disown
+    # run with
+    headphone_button
 
 DESCRIPTION
 ===========

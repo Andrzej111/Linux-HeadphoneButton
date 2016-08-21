@@ -110,8 +110,8 @@ Linux::HeadphoneButton - fires commands when headphone microphone button is pres
       //...
       }
   }
-
-  perl6 -Ilib/ bin/main.p6& disown
+  # run with
+  headphone_button
   
 =head1 DESCRIPTION
 

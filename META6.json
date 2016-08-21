@@ -13,7 +13,7 @@
     "Linux::HeadphoneButton" : "lib/Linux/HeadphoneButton.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "git://github.com/Andrzej111/Linux-HeadphoneButton.git",
   "test-depends" : [ ],
   "version" : "*"
 }
