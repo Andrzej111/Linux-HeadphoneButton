@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    "Pawe\u0142 Szulc"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+    "Config::From"
+  ],
+  "description" : "fires commands when headphone microphone button is pressed",
+  "name" : "Linux::HeadphoneButton",
+  "perl" : "6.c",
+  "provides" : {
+    "Linux::HeadphoneButton" : "lib/Linux/HeadphoneButton.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "test-depends" : [ ],
+  "version" : "*"
+}
